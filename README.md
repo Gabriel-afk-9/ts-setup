@@ -1,1 +1,1 @@
-# basic-structure-ts
+#ts-setup
